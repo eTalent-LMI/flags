@@ -1,3 +1,3 @@
-### eTalent image files
+### Provincial and Territorial Flags
 
-logos etc.
+1x1 and 4x3 aspect ratio
